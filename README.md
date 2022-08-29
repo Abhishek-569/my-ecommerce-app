@@ -28,3 +28,10 @@ Than run this command also to start the server
 ```
 npm run start
 ```
+Go to http://localhost:3000/ where it will be running.
+
+# Navigation
+
+## Home Page
+
+![image](https://user-images.githubusercontent.com/64806938/187304674-a7961dbb-2212-408a-90e6-8d076eef01cc.png)
