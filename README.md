@@ -4,7 +4,7 @@
 
 Tools used:
 - React Js
-- auth0 for authentication
+- auth0 for Login/SignUp(authentication)
 - Mail.Js for Sending mail in Contact Us page
 - Netlify to host our website 
 
