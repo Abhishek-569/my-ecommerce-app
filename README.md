@@ -10,10 +10,10 @@ Tools used:
 
 ## Features of Site
 
-- E-commerce site to select a wide variety of furniture
-- Login and Logout using auth0
-- Responsive site(mobile and PC)
-- Alert the owner of website whenever any customer feedfack is there
+- E-commerce site to select a wide variety of furniture.
+- Login and Logout using auth0.
+- Responsive site(mobile and PC).
+- Alert the owner of website whenever any customer feedback is there.
 
 # Setting up the Site in your local system
 
