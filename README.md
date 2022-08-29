@@ -18,12 +18,17 @@ Tools used:
 # Setting up the Site in your local system
 
 ## Step 1.
+Download the zip file or use below command to clonerepository
+```
+git clone https://github.com/Abhishek-569/my-ecommerce-app.git
+```
+## Step 2.
 Run this command in root directory to install all the dependencies
 ```
 npm install react-scripts
 ```
 
-## Step 2.
+## Step 3
 Than run this command also to start the server 
 ```
 npm run start
