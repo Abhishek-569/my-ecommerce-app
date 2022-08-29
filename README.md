@@ -35,3 +35,13 @@ Go to http://localhost:3000/ where it will be running.
 ## Home Page
 
 ![image](https://user-images.githubusercontent.com/64806938/187304674-a7961dbb-2212-408a-90e6-8d076eef01cc.png)
+
+## Sign Up Page
+![image](https://user-images.githubusercontent.com/64806938/187304857-93f26877-72a7-437c-9a89-d2df957bd068.png)
+
+## Login page
+![image](https://user-images.githubusercontent.com/64806938/187304913-775f9569-9911-4a54-b192-87affd824594.png)
+
+## After Login
+After successful login the Login icon has changed to Logout
+![image](https://user-images.githubusercontent.com/64806938/187305075-3196980b-3d37-460f-9009-4b25f5a9b353.png)
