@@ -45,3 +45,30 @@ Go to http://localhost:3000/ where it will be running.
 ## After Login
 After successful login the Login icon has changed to Logout
 ![image](https://user-images.githubusercontent.com/64806938/187305075-3196980b-3d37-460f-9009-4b25f5a9b353.png)
+
+## About us page
+![image](https://user-images.githubusercontent.com/64806938/187305260-4e43db7b-08e9-4ab3-b66a-847fa6b5121b.png)
+
+## Products
+![image](https://user-images.githubusercontent.com/64806938/187305303-94bd3326-c7c1-42db-81cd-f13d6eda0479.png)
+
+## Cart Details
+![image](https://user-images.githubusercontent.com/64806938/187305373-b1fede87-db31-421a-beb0-9d39a194f61e.png)
+
+## Contact us Page
+
+### Message send!!
+![image](https://user-images.githubusercontent.com/64806938/187306015-46224e7d-306a-44e5-a2fc-6d26b44e5e84.png)
+
+### Message Recieved
+![image](https://user-images.githubusercontent.com/64806938/187306104-43393a64-7abc-4dcd-a1ba-c717b6f07eb8.png)
+
+## Mobile Site
+![image](https://user-images.githubusercontent.com/64806938/187306181-561a3855-eb31-445b-9590-8ad34f47f777.png)
+
+![image](https://user-images.githubusercontent.com/64806938/187306215-ee996b67-4858-44d7-a666-be87db0f701f.png)
+
+![image](https://user-images.githubusercontent.com/64806938/187306265-78ad591a-bac8-48e5-b6f8-3cdceba3c449.png)
+
+
+
